@@ -1,0 +1,2 @@
+Row	Highlight	Display	Tag	Symbol	NA	NB	NC	Bond	Angle	Dihedral	X	Y	Z
+1	No	Show	1	Zr							0.5555555	-0.9329140	0.0000000
